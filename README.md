@@ -7,7 +7,6 @@
 [![Next.js](https://img.shields.io/badge/Next.js-16%20App%20Router-black.svg)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-61DAFB.svg)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38B2AC.svg)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An intelligent, full-stack **Text-to-SQL AI Agent** built using **LangGraph**, **FastAPI**, **Google Gemini 2.5 Flash**, and **Next.js 16**.
 
@@ -256,19 +255,5 @@ Approves or rejects query execution, runs the query, and triggers self-healing /
 
 ---
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-Feel free to open an issue or submit a pull request.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
